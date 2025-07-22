@@ -1,0 +1,101 @@
+id,question,axis
+q_0001,Tariffs on foreign goods protect American manufacturing jobs,economic
+q_0002,Zoning laws that prevent dense housing development should be eliminated,economic
+q_0003,Multinational corporations should pay taxes where they generate revenue,economic
+q_0004,Amazon's acquisition of Whole Foods should have been blocked to prevent vertical integration in the grocery industry.,economic
+q_0005,SpaceX proves that private companies are more efficient than NASA at space exploration,economic
+q_0006,Workers should have mandatory representation on corporate boards of directors,economic
+q_0007,A financial transaction tax would help curb market speculation,economic
+q_0008,School choice voucher programs improve educational outcomes,economic
+q_0009,Meta's stock buybacks should be limited until they adequately address the mental health crisis their platforms contribute to.,economic
+q_0010,Government-run healthcare leads to worse outcomes than private systems,economic
+q_0011,Employee ownership stakes should be mandated for large corporations,economic
+q_0012,Single-payer healthcare would improve health outcomes while reducing costs,economic
+q_0013,Small businesses should receive tax credits for AI adoption to prevent further market concentration.,economic
+q_0014,Inheritance over $10 million should be taxed at 50% or higher,economic
+q_0015,NAFTA has been a net positive for American workers,economic
+q_0016,Internet access should be regulated as a public utility like electricity or water,economic
+q_0017,Government should break up large tech companies,economic
+q_0018,Stock buybacks should be taxed to discourage financial engineering,economic
+q_0019,Social Security should be partially privatized through individual investment accounts,economic
+q_0020,Labor unions do more harm than good in the modern economy,economic
+q_0021,Public transportation should be fare-free to reduce emissions,economic
+q_0022,Corporate stock buybacks should be banned or heavily taxed,economic
+q_0023,High-frequency trading should be banned to reduce market manipulation,economic
+q_0024,Amazon's use of contract drivers instead of employees is a deliberate strategy to avoid providing benefits and should be illegal.,economic
+q_0025,ByteDance should be forced to sell TikTok to a non-Chinese company to operate in Western markets.,economic
+q_0026,Nuclear power is essential for combating climate change,economic
+q_0027,Negative income tax would be better than current welfare programs,economic
+q_0028,Internet access should be regulated as a public utility,economic
+q_0029,Financial transaction taxes would curb market speculation,economic
+q_0030,Outsourcing jobs overseas should be penalized through taxation,economic
+q_0031,All student loan debt should be forgiven by the federal government,economic
+q_0032,Central bank independence prevents political manipulation of currency,economic
+q_0033,Forcing Apple to open iMessage to Android would violate property rights and destroy a key product differentiator.,economic
+q_0034,The government should guarantee a job to anyone willing to work,economic
+q_0035,The minimum wage should be automatically adjusted for inflation,economic
+q_0036,Means-testing for Social Security would ensure the program's solvency,economic
+q_0037,Antitrust enforcement should be strengthened against tech companies,economic
+q_0038,Private equity firms harm the economy and should face stricter regulation,economic
+q_0039,Government should provide free childcare for all working parents,economic
+q_0040,Social Security should be partially privatized with individual accounts,economic
+q_0041,AI companies with over $1 billion in revenue should be broken up to prevent monopolistic control over critical infrastructure.,economic
+q_0042,Universal basic income would be preferable to means-tested welfare,economic
+q_0043,Patents on pharmaceutical drugs should have shorter terms,economic
+q_0044,Public funding should support alternative AI architectures not dominated by big tech companies.,economic
+q_0045,The Federal Reserve should prioritize fighting inflation over maintaining full employment,economic
+q_0046,The government should break up large tech companies to prevent monopolistic behavior,economic
+q_0047,Data privacy regulations harm small business competitiveness,economic
+q_0048,Private prisons create perverse incentives in the justice system,economic
+q_0049,The federal deficit is a serious threat requiring immediate spending cuts,economic
+q_0050,Zoning laws should be relaxed to allow more housing construction,economic
+q_0051,The US should maintain strong borders and enforce immigration laws,social
+q_0052,Protest tactics that block traffic should result in arrest,social
+q_0053,Stand your ground laws are necessary for self-defense rights,social
+q_0054,Voting should require government-issued photo identification,social
+q_0055,Online anonymity enables harmful behavior and should be restricted,social
+q_0056,The company's rebranding to Meta was a transparent attempt to distance itself from Facebook's reputational problems.,social
+q_0057,Cities should eliminate single-family zoning to increase housing supply,social
+q_0058,Stand your ground laws are legitimate forms of self-defense,social
+q_0059,Gender-neutral bathrooms should be required in all public buildings,social
+q_0060,Gemini's refusal to generate certain content shows appropriate ethical boundaries,social
+q_0061,Parents should have the right to access their minor children's medical records,social
+q_0062,Religious displays should be permitted on government property,social
+q_0063,Drug possession should be decriminalized and treated as a health issue,social
+q_0064,WhatsApp's encrypted messaging is essential for protecting dissidents and activists from authoritarian surveillance.,social
+q_0065,Ranked choice voting should replace first-past-the-post elections,social
+q_0066,Critical race theory is divisive and shouldn't be taught in schools,social
+q_0067,Hate speech laws are incompatible with free expression and should be repealed,social
+q_0068,Birthright citizenship should be eliminated for children of non-citizens,social
+q_0069,Parents should have the right to opt their children out of any AI-powered educational tools.,social
+q_0070,School prayer should be allowed in public schools if student-led,social
+q_0071,Prayer should be allowed in public schools on a voluntary basis,social
+q_0072,The death penalty is a just punishment for the most heinous crimes,social
+q_0073,Sex work should be fully legalized and regulated,social
+q_0074,Private prisons create perverse incentives for mass incarceration,social
+q_0075,Homeschooling should be more strictly regulated to ensure educational standards,social
+q_0076,Felons should have their voting rights automatically restored,social
+q_0077,Flag burning should be protected as free speech,social
+q_0078,Neuralink's potential to record thoughts poses unprecedented privacy threats,social
+q_0079,Facebook's role in enabling genocide in Myanmar demonstrates why social media companies need strict international oversight.,social
+q_0080,Government should negotiate prescription drug prices directly,social
+q_0081,Flag burning should be protected as political expression,social
+q_0082,Religious institutions should be required to pay property taxes like other organizations,social
+q_0083,Parents should have the right to use school vouchers for religious education,social
+q_0084,Parents should be notified before minors receive any medical gender treatments,social
+q_0085,Flag burning is a legitimate form of political protest,social
+q_0086,Religious exemptions to anti-discrimination laws should be eliminated,social
+q_0087,Neuralink could help millions with disabilities and deserves fast-track regulatory approval,social
+q_0088,Assisted suicide should be legal for terminally ill patients,social
+q_0089,Gun manufacturer liability exemptions should be repealed,social
+q_0090,Mandatory vaccination policies violate personal medical freedom,social
+q_0091,English should be established as the official language of the United States,social
+q_0092,Critical race theory teaches important truths about systemic racism,social
+q_0093,Immigration increases crime rates and strains public services,social
+q_0094,Facebook Groups have become essential organizing tools for grassroots political movements and community building.,social
+q_0095,Schools receiving public funding should be prohibited from requiring Apple devices due to the financial burden on low-income families.,social
+q_0096,Gender transition treatments should require parental consent for minors,social
+q_0097,Confederate monuments should remain as historical artifacts,social
+q_0098,Mandatory minimum sentences reduce judicial bias and ensure consistent punishment,social
+q_0099,Sex work should be decriminalized to protect workers' rights,social
+q_0100,Mandatory military service would benefit society,social
